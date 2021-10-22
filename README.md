@@ -1,4 +1,4 @@
-# counterappusingloc
+# Counter App using Bloc
 
 A new Flutter application.
 
